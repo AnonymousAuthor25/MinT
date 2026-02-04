@@ -1,7 +1,7 @@
 # MinT
 
-This is the implementation for our TOIS2025 paper:
-> Medical Match, Personal Touch: A Dual-Module Approach for Tailored Doctor Recommendations
+This is the implementation for our paper:
+> Medical Match, Personal Touch: A Dual-Module Approach for Personalized Doctor Recommendations
 
 ## Environment
 We use Python language and Pytorch library to establish our model. 
